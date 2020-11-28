@@ -1,0 +1,45 @@
+body{
+    background-color:rgb(0, 255, 64) ;
+}
+
+
+header{
+    height:80px;
+    width: 100%;
+    position:fixed;
+    top:0;
+    background-color: rgba(34, 49, 52, 0.9);
+    z-index: 10;
+    color:white;
+}
+
+
+span{
+    color:white;
+}
+
+ .header-list li{
+    
+    list-style: none;
+    float:left;
+    padding:10px 20px;
+}
+
+.header-title{
+    border-right: 1px solid transparent;
+    border-color: rgb(134, 121, 121);
+    border-radius: 0ch;
+    padding-right:20px;
+    padding-left:15px;
+}
+
+a:hover{
+    color:	rgb(128, 128, 128);
+}
+
+.section a:hover{
+    color:white;
+    
+ 
+
+}
