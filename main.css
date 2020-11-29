@@ -39,7 +39,45 @@ a:hover{
 
 .section a:hover{
     color:white;
-    
  
+}
 
+
+.section h2:hover{
+    color:blue;
+}
+
+.footer-logo a:hover{
+    color:white;
+}
+
+.footer-section p{
+    color:black;
+}
+.facebook{
+    color: black;
+}
+
+.twitter{
+    color:black;
+}
+
+.instagram{
+    color:black;
+}
+
+.linkdin{
+    color:black;
+}
+
+.footer-section a:hover{
+    color:white;
+}
+
+.footer-section span {
+    color:black;
+}
+
+.footer-logo{
+    border-color: black;
 }
